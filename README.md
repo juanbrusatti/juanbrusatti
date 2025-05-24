@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 soy Juan / dlaydev ✨</h1> 
 
-<!--
-**juanbrusatti/juanbrusatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-dlay" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Juan"/></a>
+  <a href="mailto:juanbrusatti@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail de Juan" /></a>
+</p>
+<br>
 
-Here are some ideas to get you started:
+<h2>Sobre mí 😃</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+🎓 Bachiller en Economía – Estudiante de Analista en Sistemas (UNRC)<br>
+💻 Desarrollador de software y emprendedor – Co-creador de <strong>Applert</strong>, app municipal de seguridad ciudadana<br>
+🍸 Experiencia en atención al cliente y bartender – habilidades sociales fuertes y gran adaptabilidad<br>
+📱 Manejo de redes sociales y creación de contenido<br>
+🚀 Aprendiz rápido, resolutivo, comprometido con cada desafío<br>
+📫 Contacto: juanbrusatti@gmail.com
+</p>
+<br>
+
+<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,firebase,html,css,c,vscode,github,git&perline=10" />
+  </a>
+</p>
+<br>
+
+<h2>Proyectos destacados 🚀</h2>
+
+<table align="left">
+  <tr border="none">
+    <td width="30%" align="center">
+      <p align="center">
+        <img align="center" width="100%" src="https://user-images.githubusercontent.com/placeholder.png" alt="Applert" />
+      </p>
+      <p align="center">
+        <strong>Applert</strong><br>
+        App móvil desarrollada para gestión de alertas de seguridad ciudadana<br>
+        Tecnologías: React Native, Firebase, Expo
+      </p>
+    </td>
+  </tr>
+</table>
+<br><br><br>
+
+<h2>Estadísticas de GitHub :octocat:</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanbrusatti&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuUsuarioGitHub&theme=dark&hide_border=false&langs_count=6" />
+</p>
