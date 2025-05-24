@@ -48,5 +48,4 @@
 <h2>Estadísticas de GitHub :octocat:</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanbrusatti&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuUsuarioGitHub&theme=dark&hide_border=false&langs_count=6" />
 </p>
