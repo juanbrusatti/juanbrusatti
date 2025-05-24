@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<h2>Skills 👨🏻‍💻</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
