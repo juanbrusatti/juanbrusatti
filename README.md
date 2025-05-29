@@ -36,7 +36,7 @@
         <img align="center" width="100%" src="https://user-images.githubusercontent.com/placeholder.png" alt="Applert" />
       </p>
       <p align="center">
-        <strong>Applert</strong><br>
+        <strong>[Applert](https://expo.dev/accounts/mateocornejo/projects/applert/builds/4572b21c-a84e-4567-b29e-f67c9920afe2)</strong><br>
         App móvil desarrollada para gestión de alertas de seguridad ciudadana<br>
         Tecnologías: React Native, Firebase, Expo
       </p>
