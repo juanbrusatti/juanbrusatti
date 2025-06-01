@@ -43,7 +43,7 @@
     </td>
   </tr>
 </table>
-<br><br><br>
+<br><br><br><br><br>
 
 <h2>Estadísticas de GitHub :octocat:</h2>
 <p align="center">
