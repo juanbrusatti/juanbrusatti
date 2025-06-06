@@ -24,7 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,firebase,html,css,c,vscode,github,git&perline=10" />
   </a>
-   <img src="https://cdn.simpleicons.org/expo/000000" alt="expo" width="40" height="40" style="margin-left: 4px;" />
+   <img src="https://cdn.simpleicons.org/expo/ffffff" alt="expo" width="40" height="40" style="margin-left: 4px;" />
 </p>
 <br>
 
