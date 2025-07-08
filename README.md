@@ -46,7 +46,8 @@
 </table>
 <br><br><br><br><br>
 
-<h2>Estadísticas de GitHub :octocat:</h2>
+<h2>
+  Estadísticas de GitHub :octocat:</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanbrusatti&theme=dark&hide_border=false" />
 </p>
