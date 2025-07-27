@@ -11,6 +11,7 @@
 <p align="left">
 🎓 Bachiller en Economía – Estudiante de Analista en Sistemas (UNRC)<br>
 💻 Desarrollador de software y emprendedor – Co-creador de <strong>Applert</strong>, app municipal de seguridad ciudadana<br>
+  Co-creador de <strong>acma</strong>, app para gestion de sobrantes, precios, insumos, etc para la creacion de aberturas de vidrios<br>
 🍸 Experiencia en atención al cliente y bartender – habilidades sociales fuertes y gran adaptabilidad<br>
 📱 Manejo de redes sociales y creación de contenido<br>
 🚀 Aprendiz rápido, resolutivo, comprometido con cada desafío<br>
