@@ -12,7 +12,6 @@
 🎓 High school diploma in Economics – Systems Analyst student (UNRC)<br/>
 💻 Software developer & entrepreneur – co-creator of <strong>Applert</strong>, a citizen-safety municipal app<br/>
 🏗️ Co‑creator of <strong>AR Aberturas</strong>, a management app for window/door manufacturing (inventory, pricing, leftovers, and supplies)<br/>
-🍸 Customer service and bartender experience – strong social skills and high adaptability<br/>
 📱Social media management and content creation<br/>
 🚀 Fast learner, problem‑solver, and committed to every challenge<br/>
 📫 Contact: mjuanmolina123@gmail.com
