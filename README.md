@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://dlay.com.ar"><img src="https://img.shields.io/badge/DLAY-dlay.com.ar-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/juan-dlay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/juan-dlay](https://www.linkedin.com/in/juanbrusatti/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mjuanmolina123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
